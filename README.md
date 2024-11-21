@@ -1,4 +1,3 @@
-# Mlflow-DL-ANN
 # Gender Classification Using ANN with MLflow
 
 ## 1. Overview of the Dataset
@@ -41,3 +40,7 @@ Develop and train an **Artificial Neural Network (ANN)** for classifying gender,
 
 #### Data Splitting:
 - Split the dataset into **training**, **validation**, and **test** sets.
+
+## Links:
+- **[Project Notebook](https://www.kaggle.com/code/alialarkawazi/gender-classification-dl-ann)**
+- **[Dataset](https://www.kaggle.com/code/alialarkawazi/gender-classification-dl-ann?select=Transformed+Data+Set+-+Sheet1.csv)**
