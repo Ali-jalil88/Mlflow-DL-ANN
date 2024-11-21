@@ -1,5 +1,5 @@
 # Gender Classification Using ANN with MLflow
-![Gender Classification Workflow](sandbox:/mnt/data/A_visually_engaging_representation_of_a_gender_cla.png)
+![Gender Classification Workflow]()
 
 
 ## 1. Overview of the Dataset
