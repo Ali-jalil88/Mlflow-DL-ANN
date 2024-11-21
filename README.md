@@ -1,5 +1,5 @@
 # Gender Classification Using ANN with MLflow
-![Gender Classification Workflow]()
+![Gender Classification Workflow](https://raw.githubusercontent.com/Ali-jalil88/Mlflow-DL-ANN/refs/heads/main/pic.webp)
 
 
 ## 1. Overview of the Dataset
